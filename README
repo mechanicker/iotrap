@@ -20,8 +20,7 @@ NFSv4 with iotrap: 1094mb/s
 
 Setup:
 
-- Download http://web.eng.netapp.com/~dhruva/hana/iotrap/iotrap.so
-  (say under: /root/iotrap.so)
+- Download iotrap.so (say under: /root/iotrap.so)
 - Mount the same volume (nfs_perf_rhelx01) from different data LIFs
   (preferably 4 LIFs)
   Ex (my test setup):
